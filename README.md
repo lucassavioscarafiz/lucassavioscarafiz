@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou Lucas Sávio Scarafiz</h1>
-<h3 align="left">Cientista de dados com experiência no mercado de crédito, trabalhando em projetos voltados à Grandes Bancos e empresas do segmento do Varejo.</h3>
+<h3 align="left">Cientista de dados com experiência no mercado de crédito, trabalhando em projetos voltados a Grandes Bancos, fintechs e empresas do segmento do Varejo.</h3>
 
   
-<h3 align="left">Atualmente sou colaborador da Boa Vista na área de Inteligência de Mercado, onde construo soluções analíticas e estudos ad-hoc com o intuito de gerar insights e agregar valor a carteira do cliente, focando em aumentar sua taxa de aprovação, diminuir o seu risco e reduzir a inadimplência geral.</h3>
+<h3 align="left">Sou responsável pelo desenvolvimento de algoritmos de machine learning para construção de modelos preditivos e soluções analíticas que atendam as principais necessidades do cliente, com o intuito de agregar valor em sua carteira, focando em aumentar a taxa de aprovação, diminuir o risco de operação e reduzir a inadimplência geral.</h3>
   
 <h3 align="left">Curso pós em Ciência de Dados e possuo conhecimento técnico na construção de modelos supervisionados e não supervisionados de Regressao Linear, Regressão Logística, DecisionTree, RandomForest, GradientBoosting, XGBoost, K-Means, PCA, SVM. </h3>
 
