@@ -1,10 +1,12 @@
-<h1 align="center">Olá 👋, Eu sou Lucas Sávio Scarafiz</h1>
+<h1 align="center">Hello 👋 I'm Lucas Savio Scarafiz</h1>
 <h3 align="left">Data Scientist with 4+ years of work experience building analytical solutions and developing machine learning credit risk models for great banks of Brazil aiming to increase the number of customers and reduce default and turn-over.</h3>
 
   
-<h3 align="left"> I Developed Application Score, Behavior Score and Auto Loan machine learning models, resulting in a 33% increase of the customers growth rate, 17% increase of the credit card limits of the customers and enabling more accurate risk assessments, keeping the same default rate; </h3>
-  
-<h3 align="left">Curso pós em Ciência de Dados e possuo conhecimento técnico na construção de modelos supervisionados e não supervisionados de Regressao Linear, Regressão Logística, DecisionTree, RandomForest, GradientBoosting, XGBoost, K-Means, PCA, SVM. </h3>
+<h3 align="left"> ➡ Developed the Application Score machine learning model, resulting in a 33% increase of the customers growth rate, keeping the same default rate. </h3>
+
+<h3 align="left"> ➡ Developed the Behavior Score machine learning model, resulting in a 17% increase of the credit card limits of the customers and enabling more accurate risk assessments. </h3>
+
+<h3 align="left"> ➡ Built and optimized data pipelines in order to collect raw data from different sources, apply data wrangling, data cleaning, features selection and feature engineering process in the dataset of the model </h3>
 
 <h3 align="left">Work Skills:  Python, SQL, Machine Learning, Analytics, Statistics, Visualization Tools (Power BI, Looker), AWS, SageMaker, Data Pipelines, Data Wrangler, Credit Risk Analyses. </h3>
 
