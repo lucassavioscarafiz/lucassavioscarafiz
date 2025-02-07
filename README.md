@@ -10,6 +10,7 @@
 
 <h3 align="left">Work Skills:  Python, SQL, Machine Learning, Analytics, Statistics, Visualization Tools (Power BI, Looker), AWS, SageMaker, Data Pipelines, Data Wrangler, Credit Risk Analyses. </h3>
 
+Don't forget to check this repo with my experiences 👉: [credit-score-classification](https://github.com/lucassavioscarafiz/credit-score-classification)
 
 
 
